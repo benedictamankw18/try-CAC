@@ -460,6 +460,7 @@ tr{
         display: flexbox;
         z-index: 3;
         backdrop-filter: blur(10px);
+        -webkit-backdrop-filter: blur(10px);
         color: #ffff;
         width: 60%;
         height: 100%;
@@ -552,6 +553,7 @@ tr{
         display: flexbox;
         z-index: 3;
         backdrop-filter: blur(10px);
+        -webkit-backdrop-filter: blur(10px);
         color: #ffff;
         width: 60%;
         height: 100%;
